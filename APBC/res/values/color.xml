@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="popup_bg">#88000000</color>
+    <color name="black">#000000</color>					<!-- 黑色 -->
+    <color name="white">#FFFFFF</color>					<!-- 白色 -->
+	<color name="red">#FF0000</color>					<!-- 红色 -->
+	<color name="forestgreen">#228B22</color>			<!-- 森林绿 -->
+	<color name="darkgray">#A9A9A9</color>				<!-- 暗灰色 -->
+	<color name="lightblue">#ADD8E6</color>				<!-- 亮蓝色 -->
+	<color name="blue">#0000FF</color>					<!-- 蓝色 -->
+	<color name="gray">#808080</color>					<!-- 灰色 -->
+	<color name="transgray">#80808080</color>			<!-- 灰色 -->
+	<color name="dimgrey">#696969</color>				<!-- 暗灰色 -->
+	<color name="gainsboro">#DCDCDC</color>				<!-- 淡灰色 -->
+	<color name="activity_background">#e8e8e8</color>	<!-- activity的背景色 -->
+	<color name="transparentgainsboro">#AADCDCDC</color>	<!-- 透明淡灰色 -->
+	<color name="mintcream">#F5FFFA</color>				<!-- 薄荷色 -->
+	<color name="flag_color">#005f89</color>			<!-- 小旗的颜色 -->
+	<color name="activity_title">#4087a7</color>		<!-- 首页活动标题的颜色 -->
+	<color name="gold">#b89766</color>					<!-- 金色 -->
+	<color name="lemonchiffon">#FFFACD</color>			<!-- 柠檬绸色 -->
+	<color name="skyblue">#87CEEB</color>				<!-- 天蓝色 -->
+	<color name="pinkgreen">#4BC270</color>				<!-- 粉绿色 -->
+	<color name="lemonyellow">#DAE925</color>			<!-- 柠檬黄 -->
+	<color name="pink">#FF8078</color>					<!-- 粉色 -->
+	<color name="pinkblue">#159FEE</color>				<!-- 粉蓝色 -->
+	<color name="gemblue">#1479D3</color>				<!-- 宝石蓝 -->
+	<color name="greenyellow">#ADFF2F</color>			<!-- 黄绿色 -->
+	<color name="mediumpurple">#9370DB</color>			<!-- 中紫色 -->
+	<color name="lightgreen">#90EE90</color>			<!-- 亮绿色 -->
+	<color name="chartreuse">#7FFF00</color>			<!-- 黄绿色 -->
+	<color name="lime">#00FF00</color>					<!-- 酸橙色 -->
+	<color name="plum">#DDA0DD</color>					<!-- 洋李色 -->
+	<color name="lightcoral">#F08080</color>			<!-- 亮珊瑚色 -->
+	<color name="honeydew">#F0FFF0</color>				<!-- 蜜色 -->
+	<color name="salmon">#FA8072</color>				<!-- 鲜肉色 -->
+	<color name="deeppink">#FF1493</color>				<!-- 深粉红色 -->
+	<color name="hotpink">#FF69B4</color>				<!-- 热粉红色 -->
+	<color name="mistyrose">#FFE4E1</color>				<!-- 浅玫瑰色 -->
+	<color name="seashell">#FFF5EE</color>				<!-- 海贝色 -->
+	<color name="orange">#ff9933</color>				<!-- 海贝色 -->
+	<color name="lightgray">#eee9e9</color>				<!-- 浅灰色 -->
+	<color name="infotext">#959595</color>				<!-- 浅灰色 -->
+	<color name="button">#ff5000</color>				<!-- 按钮的颜色 -->
+	<color name="camerabutton">#ff9933</color>				<!-- 按钮的颜色 -->
+	<color name="camerabuttondown">#f0401b</color>				<!-- 按钮的颜色 -->
+	<color name="imageprocessbutton">#1b1b1b</color>				<!-- 按钮的颜色 -->
+	<color name="background_tab_pressed">#6633B5E5</color>
+	<color name="status_operation_pressed">#6c6c6c</color>
+	<color name="status_operation">#e5e5e5</color>
+	<color name="product_loading">#f2f2f2</color>
+	<color name="buy_button">#ff5000</color>
+	<color name="tag_text">#f06c55</color>
+	<color name="tag_text_down">#30f06c55</color>
+	<color name="at_text">#4372a2</color>
+	<color name="at_text_down">#304372a2</color>
+	<color name="app_red">#ee5037</color>
+	<color name="app_green">#05be03</color>
+	<color name="gray_text">#959595</color>
+	
+	<!-- drop down list header font color -->
+    <color name="drop_down_list_header_font_color">#000000</color>
+    <!-- drop down list header second font color -->
+    <color name="drop_down_list_header_second_font_color">#000000</color>
+    <!-- drop down list footer font color -->
+    <color name="drop_down_list_footer_font_color">#000000</color>
+</resources>
